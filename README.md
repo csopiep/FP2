@@ -37,3 +37,5 @@ I could change the hash table into a list but it leaves me with too many problem
    #hasheq((person. (#hasheq((name . "King Arthur")) #hasheq((gender . "Male"))))
            (duty . #hasheq((Occupation . "King Of Camelot"))))))
 ```
+
+Unforunately I wasn't able to learn how to manipulate hash tables in scheme yet due to time constraints.
